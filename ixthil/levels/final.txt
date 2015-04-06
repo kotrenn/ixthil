@@ -1,0 +1,16 @@
+640 600
+color ice 0 127 240
+terrain ice 0 50 600 0 0 600 600
+terrain ice 50 120 50 510 550 600 600
+terrain ice 170 210 50 550 550 600 600
+terrain ice 380 50 20 550 580 600 600
+terrain ice 430 120 20 580 580 600 600
+terrain ice 550 50 20 580 520 600 600
+terrain ice 600 40 600 0 0 600 600
+terrain ice 50 40 60 210 250 370 310
+terrain ice 560 40 60 290 250 350 390
+color blue 0 0 240
+hazard rect blue 380 560 220 20
+start 275 540
+color dark_blue 0 0 40
+background dark_blue

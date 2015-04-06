@@ -1,0 +1,6 @@
+level 10
+repeat 4 actor bounce
+repeat 16 actor cloud
+next level11
+music music2
+

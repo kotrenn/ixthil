@@ -1,0 +1,7 @@
+level 3
+repeat 5 actor attractor
+repeat 5 actor simple
+repeat 5 actor strong
+next level4
+enable portal
+music music1

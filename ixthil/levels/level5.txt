@@ -1,0 +1,4 @@
+level 5
+repeat 10 actor attractor
+next level6
+music music1

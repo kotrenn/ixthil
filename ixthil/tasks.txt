@@ -1,0 +1,54 @@
+[ ] Actor
+ [X] Move dependencies between actors
+ [X] Color
+[ ] Level
+ [X] Actor queries
+ [X] Bullet queries
+ [X] Item lists
+ [X] Item queries
+[ ] Level reader class
+ [X] Multiple of a single type
+ [X] Random sets
+  [ ] Random history
+[X] Level progression
+ [ ] Load previous level's next level for subspace
+[ ] Background
+ [X] Implementation
+ [X] Optimization
+[ ] Player
+ [X] Weapon system
+ [X] Lightning bullets
+ [X] Homing bullets
+ [ ] Lightning doesn't show up if center target dies
+[X] Bullet
+ [X] Arbitrary shape
+ [X] Colors
+[ ] Actor Factory
+ [ ] Generalized individual factories
+  [ ] Group actor
+  [ ] Octa Group actor
+  [ ] Cloud actor?
+[ ] Item
+ [X] Collect item
+  [X] Disable pulling when shooting
+ [X] Energy (just make animated items later)
+ [X] Subspace
+[ ] Line on line intersection
+[ ] Font
+ [X] General stuff
+ [ ] Transparency
+ [ ] Color?
+[ ] Input Device
+ [X] Keyboard
+ [ ] Joystick
+[ ] Score from enemy death
+[ ] Menu
+ [X] General class
+ [X] Main menu
+ [X] Stage select menu
+ [ ] Options menu
+ [ ] Pause menu
+[ ] Credits
+ [ ] Name ship
+ [ ] Read from file
+

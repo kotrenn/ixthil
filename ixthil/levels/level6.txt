@@ -1,0 +1,5 @@
+level 6
+repeat 10 actor attractor
+repeat 5 actor smart
+next level7
+music music1

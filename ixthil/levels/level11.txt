@@ -1,0 +1,10 @@
+level 11
+repeat 6 actor group_creator
+cloud_center 0.2 -200
+repeat 15 actor cloud
+cloud_center 0.8 -200
+repeat 15 actor cloud
+next level12
+enable portal
+music music2
+

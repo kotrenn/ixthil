@@ -1,0 +1,6 @@
+level 1
+repeat 10 actor cloud
+next level2
+next level9
+next level11
+music music1

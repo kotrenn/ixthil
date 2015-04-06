@@ -1,0 +1,6 @@
+level 7
+repeat 8 actor smart
+repeat 4 actor bounce
+next level8
+enable portal
+music music1

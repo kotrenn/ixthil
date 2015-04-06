@@ -1,0 +1,29 @@
+2000 800
+color blue 0 0 255
+terrain blue 0 2000 20 780 780 800 800
+terrain blue 100 500 20 600 600 620 620
+terrain blue 600 300 20 600 500 620 650
+terrain blue 900 100 150 500 200 650 780
+terrain blue 1000 300 460 200 300 780 760
+terrain blue 1300 50 120 300 500 760 620
+terrain blue 1350 250 20 500 600 620 620
+terrain blue 1600 200 20 600 600 620 620
+actor stand 100 100
+actor stand 200 100
+actor stand 300 100
+actor stand 400 100
+actor stand 500 100
+actor stand 600 100
+actor stand 700 100
+actor stand 800 100
+actor stand 900 100
+actor stand 1000 100
+actor stand 1100 100
+actor stand 1200 100
+actor stand 1300 100
+actor stand 1400 100
+actor stand 1500 100
+actor stand 1600 100
+actor stand 1700 100
+actor stand 1800 100
+actor stand 1900 100

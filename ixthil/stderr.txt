@@ -1,0 +1,60 @@
+Making a background with 12288 cells
+Reading level "title"
+m_parent = 0
+MainMenu::selection(Start Game)
+m_parent = 2dfef8
+StageMenu::selection(Stage 1)
+switch_level(level1)
+Reading level "level1"
+exit_menu(2de0a0)
+exit_menu(2dfef8)
+level_done()
+switch_level(level11)
+Reading level "level11"
+Setting cloud center: 0.2 -200
+Setting cloud center: 0.8 -200
+DarkActor::die(1)
+Inserting portal
+level_done()
+switch_level(subspace1)
+Reading level "subspace1"
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+level_done()
+switch_level(level4)
+Reading level "level4"
+level_done()
+switch_level(level5)
+Reading level "level5"
+level_done()
+switch_level(level6)
+Reading level "level6"
+level_done()
+switch_level(level7)
+Reading level "level7"
+Inserting portal
+level_done()
+switch_level(subspace1)
+Reading level "subspace1"
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+DarkActor::die(1)
+level_done()
+switch_level(level4)
+Reading level "level4"
+level_done()
+switch_level(level5)
+Reading level "level5"

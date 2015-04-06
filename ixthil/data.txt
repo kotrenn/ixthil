@@ -1,0 +1,21 @@
+vec	size		5000 480
+vec level_dims	500 480
+int view_dist   450
+str start       "title"
+str background	"background_tile.png"
+int gravity		160
+int jump_speed	160
+dbl jump_time	1.6
+int player_rad	10
+int player_speed	150
+int player_health	3
+dbl player_shield   300
+int player_rate	30
+dbl player_select_delay 0.2
+dbl shield_delay        0.033
+dbl invincible 1.5
+dbl pbullet_len	30.0
+dbl pbullet_speed	320.0
+dbl pbullet_delay	0.2
+int num_particles	20
+dbl anim_delay      4.0

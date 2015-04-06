@@ -1,0 +1,5 @@
+level 2
+repeat 10 actor simple
+repeat 5 actor strong
+next level3
+music music1
